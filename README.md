@@ -1,1 +1,2 @@
-### Frontend Developer  🖥️
+# Frontend Developer 🖥️  
+## [.JS | .TS]
