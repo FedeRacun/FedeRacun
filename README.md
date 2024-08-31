@@ -1,11 +1,9 @@
 # Frontend Developer 🖥️  
 ## [.JS | .TS] 📚
 
+## Readme Demo
 
-
-#Ejemplo Readme:
-
-﻿## ✨ Bienvenido al equipo!
+### ✨ Bienvenido al equipo!
 Se que estas emocionado por poner manos a la obra pero antes de comenzar te pido que dediques el tiempo necesario para leer este documento, seguro te de una mejor comprensión del proyecto y te ahorre algun que otro problema a futuro. Sin nada mas que decir, comenzamos:
 
 
@@ -104,5 +102,5 @@ Incluye aquí más ejemplos y casos de uso para ayudar a los usuarios a comprend
 ```
 
 ### 🗺️ Componentes actuales
-#### [Stepper](src/components/stepper/readme.md) | Es un carrusel para administrar y solicitar formularios
-#### [InputStep](src/components/inputStep/readme.md) | Es un input o boton que trabaja en conjunto con el Stepper
+#### [Comp1](src/components/stepper/readme.md) | Es un componente 1
+#### [Comp2](src/components/inputStep/readme.md) | Es un componente 2
